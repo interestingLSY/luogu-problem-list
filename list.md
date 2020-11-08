@@ -41,7 +41,13 @@
 
 [更早版本的更新日志请点击这里查看](https://github.com/SFOI-Team/luogu-problem-list/blob/master/history.md)
 
-## Part 0 试机题
+## 改编信息
+
+由 interestinglsy 改编
+
+为了适应澳洲的 oi 竞赛所考察的知识点
+
+## Part 0 试机题（熟悉下 luogu 这个 oj）
 
 > 三道试机题目。
 
@@ -49,7 +55,7 @@
 - [P1001 A+B Problem](https://www.luogu.com.cn/problem/P1001)
 - [P1008 三连击](https://www.luogu.com.cn/problem/P1008)
 
-## Part 1 入门阶段
+## Part 1 入门阶段（这一部分你应该没啥问题，简单过一下即可）
 
 > 本部分内容针对入门 OIer ，主要是语言基础内容。
 
@@ -105,7 +111,7 @@
 >
 > 当然，这里面也有一些难度比较高的题目。
 
-### Part 2.1 模拟
+### Part 2.1 模拟（第一次学的时候把前五道题做一下就行啦，后五题比较难以后再做吧）
 
 > 模拟，顾名思义就是题目要求你做什么你就做什么，这样的题目很考验选手的代码组织能力。
 >
@@ -165,9 +171,9 @@
 - [P2672 推销员](https://www.luogu.com.cn/problem/P2672)
 - [P1080 国王游戏](https://www.luogu.com.cn/problem/P1080)
 - [P2123 皇后游戏](https://www.luogu.com.cn/problem/P2123)
-- [P5521 [yLOI2019]梅深不见冬](https://www.luogu.com.cn/problem/P5521)
+- [P5521 [yLOI2019]梅深不见冬](https://www.luogu.com.cn/problem/P5521) （等你刷完第三章之后再做）
 
-### Part 2.6 构造
+### Part 2.6 构造（这部分题目可以很难，留到以后再做）
 
 > 构造题是一种形式灵活多样的题型。正是因为这个特点，使得构造题没有一种通用的方法。
 
@@ -181,9 +187,9 @@
 
 - [P1601 A+B Problem（高精）](https://www.luogu.com.cn/problem/P1601)
 - [P2142 高精度减法](https://www.luogu.com.cn/problem/P2142)
-- [P1303 A\*B Problem](https://www.luogu.com.cn/problem/P1303)
-- [P1480 A/B Problem](https://www.luogu.com.cn/problem/P1480)
-- [P1009 阶乘之和](https://www.luogu.com.cn/problem/P1009)
+- [P1303 A\*B Problem](https://www.luogu.com.cn/problem/P1303) （高精度乘法，不大可能考）
+- [P1480 A/B Problem](https://www.luogu.com.cn/problem/P1480) （高精度除法，不大可能考）
+- [P1009 阶乘之和](https://www.luogu.com.cn/problem/P1009) （高精度乘法，不大可能考）
 
 ### Part 2.8 前缀和 & 差分
 
@@ -251,7 +257,7 @@
 - [P4799 [CEOI2015 Day2]世界冰球锦标赛](https://www.luogu.com.cn/problem/P4799)
 - [P5195 [USACO05DEC]Knights of Ni](https://www.luogu.com.cn/problem/P5195)
 
-### Part 3.6 A\*
+### Part 3.6 A\*（可以先跳过）
 
 > 在 BFS 中，如果能设计一个合理的估价函数，就可以更快扩展到最优解。这就是 A\*算法。
 
@@ -266,14 +272,14 @@
 - [P2324 [SCOI2005]骑士精神](https://www.luogu.com.cn/problem/P2324)
 - [P2534 [AHOI2012]铁盘整理](https://www.luogu.com.cn/problem/P2534)
 
-### Part 3.8 DLX
+### Part 3.8 DLX（跳）
 
 > 算法 X 是通过回溯法求解精确覆盖问题的算法，而删除列这一操作可以使用舞蹈链加速。
 
 - [P4929 【模板】舞蹈链（DLX）](https://www.luogu.com.cn/problem/P4929)
 - [P4205 [NOI2005]智慧珠游戏](https://www.luogu.com.cn/problem/P4205)
 
-## Part 4 动态规划
+## Part 4 动态规划（这部分一定要好好学）
 
 > 动态规划是一种重要的思维方法，通过利用已有的子问题信息高效求出当前问题的最优解。
 
@@ -358,7 +364,7 @@
 - [P5005 中国象棋 - 摆上马](https://www.luogu.com.cn/problem/P5005)
 - [P2150 [NOI2015]寿司晚宴](https://www.luogu.com.cn/problem/P2150)
 
-### Part 4.6 倍增优化动态规划
+### Part 4.6 倍增优化动态规划（第一遍学时跳过，但以后要学）
 
 > 利用倍增的方式，我们可以将状态转移的效率大大提高。
 
@@ -366,7 +372,7 @@
 - [P1081 开车旅行](https://www.luogu.com.cn/problem/P1081)
 - [P5024 保卫王国](https://www.luogu.com.cn/problem/P5024)
 
-### Part 4.7 数据结构优化动态规划
+### Part 4.7 数据结构优化动态规划（第一遍学时跳过，但以后要学）
 
 > 利用数据结构来维护已有信息，也可以达到优化状态转移的目的。
 
@@ -375,7 +381,7 @@
 - [P3287 [SCOI2014]方伯伯的玉米田](https://www.luogu.com.cn/problem/P3287)
 - [P2605 [ZJOI2010]基站选址](https://www.luogu.com.cn/problem/P2605)
 
-### Part 4.8 单调队列优化动态规划
+### Part 4.8 单调队列优化动态规划（第一遍学时酌情学习，但以后要学）
 
 > 借助单调队列，排除不可能的决策，可以起到优化状态转移的效果。
 
@@ -389,7 +395,7 @@
 - [P2569 [SCOI2010]股票交易](https://www.luogu.com.cn/problem/P2569)
 - [P4852 yyf hates choukapai](https://www.luogu.com.cn/problem/P4852)
 
-### Part 4.9 斜率优化动态规划
+### Part 4.9 斜率优化动态规划（第一遍学时跳过，但以后要学）
 
 > 通过用单调队列维护一个凸壳，来达到优化转移的目的。
 
@@ -413,7 +419,7 @@
 - [P3724 [AH2017/HNOI2017]大佬](https://www.luogu.com.cn/problem/P3724)
 - [P5574 [CmdOI2019]任务分配问题](https://www.luogu.com.cn/problem/P5574)
 
-### Part 4.11 数位统计类动态规划
+### Part 4.11 数位统计类动态规划（俗称 数位 dp）
 
 > 统计一个区间中满足条件的数有多少，就是数位统计类动态规划。
 
@@ -427,7 +433,7 @@
 - [P2606 [ZJOI2010]排列计数](https://www.luogu.com.cn/problem/P2606)
 - [P4798 [CEOI2015 Day1]卡尔文球锦标赛](https://www.luogu.com.cn/problem/P4798)
 
-### Part 4.12 轮廓线动态规划
+### Part 4.12 轮廓线动态规划（第一遍学时跳过，以后么... 不大可能考）
 
 > 轮廓线动态规划（即常说的插头 DP）是一种特殊的状压动态规划，通过以轮廓线为状态来实现状态转移。
 
@@ -482,7 +488,7 @@
 - [P4683 [IOI2008]Type Printer](https://www.luogu.com.cn/problem/P4683)
 - [P3783 [SDOI2017]天才黑客](https://www.luogu.com.cn/problem/P3783)
 
-### Part 5.5 AC自动机
+### Part 5.5 AC自动机（第一遍学时跳过，但以后要学）
 
 > AC自动机可以看成是 KMP 和 Trie 的结合体，用于解决多字符串匹配问题。
 
@@ -497,7 +503,7 @@
 - [P4052 [JSOI2007]文本生成器](https://www.luogu.com.cn/problem/P4052)
 - [P5599 【XR-4】文本编辑器](https://www.luogu.com.cn/problem/P5599)
 
-### Part 5.6 回文自动机
+### Part 5.6 回文自动机（跳）
 
 > 回文自动机是解决回文串问题的有力工具。
 
@@ -506,7 +512,7 @@
 - [P4287 [SHOI2011]双倍回文](https://www.luogu.com.cn/problem/solution/P4287)
 - [P4762 [CERC2014]Virus synthesis](https://www.luogu.com.cn/problem/P4762)
 
-### Part 5.7 后缀数组
+### Part 5.7 后缀数组（第一遍学时跳过，但以后要学）
 
 > 后缀数组可以解决很多字符串匹配的问题。
 
@@ -521,7 +527,7 @@
 - [P5346 【XR-1】柯南家族](https://www.luogu.com.cn/problem/P5346)
 - [P5576 [CmdOI2019]口头禅](https://www.luogu.com.cn/problem/P5576)
 
-### Part 5.8 后缀自动机
+### Part 5.8 后缀自动机（第一遍学时跳过，但以后要学）
 
 > 后缀自动机是一种处理字符串问题的强大工具。
 
@@ -585,7 +591,7 @@
 - [P2398 GCD SUM](https://www.luogu.com.cn/problem/P2398)
 - [P4139 上帝与集合的正确用法](https://www.luogu.com.cn/problem/P4139)
 
-### Part 6.3 同余方程
+### Part 6.3 同余方程（好好学，你看到的大部分“答案对xx取模”的题都需要此部分知识）
 
 > 求解同余方程往往可以引出不少话题。
 
@@ -611,7 +617,7 @@
 - [P4774 [NOI2018]屠龙勇士](https://www.luogu.com.cn/problem/P4774)
 - [P5345 【XR-1】快乐肥宅](https://www.luogu.com.cn/problem/P5345)
 
-#### Part 6.3.3 高次同余方程
+#### Part 6.3.3 高次同余方程（跳）
 
 > BSGS 算法可以高效计算离散对数。
 >
@@ -622,7 +628,7 @@
 - [P3306 [SDOI2013]随机数生成器](https://www.luogu.com.cn/problem/P3306)
 - [P2485 [SDOI2011]计算器](https://www.luogu.com.cn/problem/P2485)
 
-### Part 6.4 博弈论
+### Part 6.4 博弈论（对思维要求较高，第一遍学时酌情跳过，但以后要学）
 
 > 博弈论考虑游戏中的个体的预测行为和实际行为，并研究它们的优化策略。
 
@@ -632,7 +638,7 @@
 - [P1247 取火柴游戏](https://www.luogu.com.cn/problem/P1247)
 - [P2252 取石子游戏](https://www.luogu.com.cn/problem/P2252)
 
-### Part 6.5 概率与期望
+### Part 6.5 概率与期望（对数学水平要求较高，第一遍学时酌情跳过，但以后要学）
 
 > 概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。
 
@@ -651,7 +657,7 @@
 - [P3600 随机数生成器](https://www.luogu.com.cn/problem/P3600)
 - [P5326 [ZJOI2019]开关](https://www.luogu.com.cn/problem/P5326)
 
-### Part 6.6 组合数学
+### Part 6.6 组合数学（对思维要求较高，第一遍学时酌情跳过，但以后要学）
 
 > 组合数学常常与计数问题，概率期望紧密相连。
 
@@ -670,7 +676,7 @@
 - [P5596 【XR-4】题](https://www.luogu.com.cn/problem/P5596)
 - [P5598 【XR-4】混乱度](https://www.luogu.com.cn/problem/P5598)
 
-#### Part 6.6.2 卡特兰数&斯特林数
+#### Part 6.6.2 卡特兰数&斯特林数（不着急学）
 
 > 卡特兰数和斯特林数是两类常见的组合递推数列。
 
@@ -741,7 +747,7 @@
 - [P3292 [SCOI2016]幸运数字](https://www.luogu.com.cn/problem/P3292)
 - [P4151 [WC2011]最大XOR和路径](https://www.luogu.com.cn/problem/P4151)
 
-### Part 6.8 多项式
+### Part 6.8 多项式（我觉得考的可能性很小，但建议学一下 FFT）
 
 > 对多项式的运算进行优化，从而能够解决规模更大的问题。
 
@@ -783,7 +789,7 @@
 - [P3704 [SDOI2017]数字表格](https://www.luogu.com.cn/problem/P3704)
 - [P5518 [MtOI2019]幽灵乐团](https://www.luogu.com.cn/problem/P5518)
 
-### Part 6.10 筛法
+### Part 6.10 筛法（会线性筛就行）
 
 > 利用数列的性质，有多种筛法可以求出我们想要的信息。
 
@@ -795,7 +801,7 @@
 - [P3768 简单的数学题](https://www.luogu.com.cn/problem/P3768)
 - [P5438 【XR-2】记忆](https://www.luogu.com.cn/problem/P5438)
 
-### Part 6.11 线性规划
+### Part 6.11 线性规划（跳）
 
 > 线性规划是研究线性约束条件下线性目标函数极值问题的方法。
 
@@ -813,7 +819,7 @@
 - [P3382 【模板】三分法](https://www.luogu.com.cn/problem/P3382)
 - [P1883 函数](https://www.luogu.com.cn/problem/P1883)
 
-#### Part 6.12.2 自适应辛普森法
+#### Part 6.12.2 自适应辛普森法（跳）
 
 > 自适应辛普森法可以高效求出给定函数的数值积分。
 
@@ -821,7 +827,7 @@
 - [P4526 【模板】自适应辛普森法2](https://www.luogu.com.cn/problem/P4526)
 - [P3779 [SDOI2017]龙与地下城](https://www.luogu.com.cn/problem/P3779)
 
-### Part 6.13 置换群
+### Part 6.13 置换群（跳）
 
 > 置换群通常用来解决一些涉及“本质不同”的计数问题。
 
@@ -909,7 +915,7 @@
 - [P4113 [HEOI2012]采花](https://www.luogu.com.cn/problem/P4113)
 - [P3960 列队](https://www.luogu.com.cn/problem/P3960)
 
-### Part 7.8 线段树
+### Part 7.8 线段树（好好学，必考项目）
 
 > 线段树的通用性比树状数组更强，可以处理更多涉及区间操作的题目。
 
@@ -941,7 +947,7 @@
 - [P4168 [Violet]蒲公英](https://www.luogu.com.cn/problem/P4168)
 - [P4119 [Ynoi2018]未来日记](https://www.luogu.com.cn/problem/P4119)
 
-### Part 7.10 可并堆
+### Part 7.10 可并堆（跳）
 
 > 可并堆分为左偏树和配对堆两种，它们都具有堆的性质，且可以高效合并。
 
@@ -953,7 +959,7 @@
 - [P3273 [SCOI2011]棘手的操作](https://www.luogu.com.cn/problem/P3273)
 - [P4331 [BOI2004]Sequence](https://www.luogu.com.cn/problem/P4331)
 
-### Part 7.11 主席树
+### Part 7.11 主席树（第一遍学时跳）
 
 > 主席树，即可持久化权值线段树。
 
@@ -1002,7 +1008,7 @@
 - [P5354 [Ynoi2017]由乃的OJ](https://www.luogu.com.cn/problem/P5354)
 - [P5499 [LnOI2019]Abbi并不想研学](https://www.luogu.com.cn/problem/P5499)
 
-### Part 7.14 树套树
+### Part 7.14 树套树（P4278 及其后面的题可以先不做）
 
 > 树套树可以用来维护多维度信息。
 
@@ -1032,7 +1038,7 @@
 - [P4219 [BJOI2014]大融合](https://www.luogu.com.cn/problem/P4219)
 - [P5489 EntropyIncreaser 与 动态图](https://www.luogu.com.cn/problemnew/solution/P5489)
 
-### Part 7.16 可持久化数据结构
+### Part 7.16 可持久化数据结构（注意感受其内在思想）
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
@@ -1057,7 +1063,7 @@
 - [P2093 [国家集训队]JZPFAR](https://www.luogu.com.cn/problem/P2093)
 - [P5471 [NOI2019]弹跳](https://www.luogu.com.cn/problem/P5471)
 
-### Part 7.18 珂朵莉树
+### Part 7.18 珂朵莉树（跳）
 
 > 珂朵莉树，是一种基于 `std::set` 的暴力数据结构，在数据随机的情况下表现优秀。
 
@@ -1285,7 +1291,7 @@
 - [P5360 [SDOI2019]世界地图](https://www.luogu.com.cn/problem/P5360)
 - [P5439 【XR-2】永恒](https://www.luogu.com.cn/problem/P5439)
 
-### Part 8.13 矩阵树定理
+### Part 8.13 矩阵树定理（跳）
 
 > 矩阵树定理可以解决图的生成树计数问题。
 
@@ -1386,7 +1392,7 @@
 - [P4074 [WC2013]糖果公园](https://www.luogu.com.cn/problem/P4074)
 - [P5501 [LnOI2019]来者不拒，去者不追](https://www.luogu.com.cn/problem/P5501)
 
-### Part 10.4 奇怪的题目
+### Part 10.4 奇怪的题目（可以锻炼思维）
 
 > OI 界中有一些非常规套路的题目，这里放出来分享。
 
@@ -1395,7 +1401,7 @@
 - [P5285 [十二省联考2019]骗分过样例](https://www.luogu.com.cn/problem/P5285)
 - [P5246 [集训队互测2016]消失的源代码](https://www.luogu.com.cn/problem/P5246)
 
-### Part 10.5 非传统题
+### Part 10.5 非传统题（我不是很确定澳洲那边会不会考这种，不过这类题目一般都挺好玩的）
 
 > 在 NOI 等比赛中，非传统题正越来越频繁出现。
 >
